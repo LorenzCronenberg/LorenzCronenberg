@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**LorenzCronenberg/LorenzCronenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi there 👋
 
 - 🔭 I’m currently working on small personal projects. 
 - 🌱 I’m currently deepening my knowledge in ES6 JavaScript and REACT. 
@@ -11,6 +6,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ES6 JavaScript and REACT. 
 - 💬 Ask me about Ruby, Ruby on Rails, SQL, UI/UX Design, HTML, CSS and Bootstrap.
 - 📫 How to reach me: you can reach me via my LinkedIn (www.linkedin.com/in/lorenzcronenberg) or mail (lorenz.cronenberg@gmx.de). 
+
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: -->
--->
